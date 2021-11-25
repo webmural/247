@@ -1,0 +1,24 @@
+::selection {
+  background: black;
+  color: pink;
+}
+
+:root {
+  color: #090309;
+  background: pink;
+}
+
+:link {
+  color: #660999;
+}
+
+:visited {
+  color: #990999;
+}
+
+:focus {
+  box-sizing: border-box;
+  box-shadow: -1ex -1ex 0 100vmax hotpink;
+  border: 5vmin solid;
+  padding: 5vmin;
+}
